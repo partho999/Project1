@@ -1,0 +1,43 @@
+@media (max-width: 991px) {
+	.about-text{
+		text-align: center;
+		padding-top: 20px;
+	}
+	.about-text p{
+		text-align: justify;
+	}
+	.contact-from {
+		width: 40%;
+	}
+	.footer-left p, .ex a{
+		font-size: 15px;
+	}
+
+}
+
+	
+
+@media (max-width: 576px) {
+	
+	.menu-icon{
+		width: 50%;
+	}
+	.social-natowork{
+		width: 100%;
+		right: -600px;
+	}
+	.photo-small{
+		text-align: justify;
+		margin: 0 auto;
+
+	}
+	.contact-from {
+		width: 75%;
+	}
+	input[type=text], input[type=email], select{
+		font-size: 14px;
+	}
+	
+}
+
+	
